@@ -25,7 +25,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      # 💡 核心保险：云端自动检测并下载 PaperMod 主题，防止主题没用上
+      # 强制兜底：如果云端 themes 目录下没有 hugo-PaperMod，自动克隆
       - name: Ensure PaperMod Theme Exists
         run: |
           if [ ! -d "themes/hugo-PaperMod" ]; then
