@@ -1,9 +1,9 @@
-name: Deploy Hugo Site to GitHub Pages
+name: Deploy Hugo Site
 
 on:
   push:
     branches:
-      - main # 如果你的默认分支是 master，请改成 master
+      - main
   workflow_dispatch:
 
 permissions:
@@ -16,14 +16,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive # 必须递归拉取主题子模块
+          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          extended: true # PaperMod 需要 Hugo Extended 版本
+          extended: true
 
       - name: Build
         run: hugo --minify
@@ -33,5 +33,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          commit_message: "Auto-deploy by GitHub Actions"
-          keep_files: false
+          commit_message: "Auto-deploy via GitHub Actions"
