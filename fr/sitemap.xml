@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://freenodess.github.io/freenode/fr/frcategories/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frseries/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frtags/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://freenodess.github.io/freenode/fa/"
+                />
+  </url>
+</urlset>
