@@ -18,20 +18,27 @@ jobs:
         with:
           fetch-depth: 0
 
+      # PaperMod 作为 Hugo 模块需要 Go 环境支持
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
 
-      - name: Force Download PaperMod Theme
+      # 兜底：手动创建目录并克隆到正确位置，同时初始化 Hugo 模块
+      - name: Force Prepare Theme
         run: |
-          rm -rf themes/hugo-PaperMod
           mkdir -p themes
-          git clone --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
-          # 打印目录确认主题是否正确就位
-          ls -la themes/
-          ls -la themes/hugo-PaperMod/
+          if [ ! -d "themes/hugo-PaperMod" ]; then
+            git clone --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
+          fi
+          # 确保 Hugo 能识别到模块
+          hugo mod get github.com/adityatelange/hugo-PaperMod || true
 
       - name: Build Website
         run: hugo --minify
