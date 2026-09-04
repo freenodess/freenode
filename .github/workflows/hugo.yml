@@ -9,7 +9,50 @@ on:
 permissions:
   contents: write
 
+jobs:name: Deploy Hugo Site with PaperMod
+
+on:
+  push:
+    branches:
+      - main # 如果你的默认分支是 master，请改成 master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      # 1. 强制清理旧主题目录并重新从官方干净地克隆一份到 themes/hugo-PaperMod
+      - name: Force Download PaperMod Theme
+        run: |
+          rm -rf themes/hugo-PaperMod
+          mkdir -p themes
+          git clone --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
+
+      # 2. 编译时直接带上主题参数和压缩命令，确保主题强制生效
+      - name: Build Website
+        run: hugo --minify --theme=hugo-PaperMod
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          commit_message: "Auto-deploy PaperMod theme via GitHub Actions"
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
