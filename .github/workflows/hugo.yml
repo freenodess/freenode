@@ -13,7 +13,7 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository & Submodules
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
@@ -25,8 +25,8 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      # 增加这一步：如果目录不存在，自动在云端把 hugo-PaperMod 克隆下来
-      - name: Ensure Theme Exists
+      # 💡 核心保险：云端自动检测并下载 PaperMod 主题，防止主题没用上
+      - name: Ensure PaperMod Theme Exists
         run: |
           if [ ! -d "themes/hugo-PaperMod" ]; then
             mkdir -p themes
