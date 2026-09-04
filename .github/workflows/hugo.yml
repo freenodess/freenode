@@ -16,7 +16,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -30,9 +29,12 @@ jobs:
           rm -rf themes/hugo-PaperMod
           mkdir -p themes
           git clone --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
+          # 打印目录确认主题是否正确就位
+          ls -la themes/
+          ls -la themes/hugo-PaperMod/
 
       - name: Build Website
-        run: hugo --minify --theme=hugo-PaperMod
+        run: hugo --minify
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
