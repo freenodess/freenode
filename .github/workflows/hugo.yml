@@ -16,14 +16,22 @@ jobs:
       - name: Checkout Repository & Submodules
         uses: actions/checkout@v4
         with:
-          submodules: recursive # 核心：自动拉取 PaperMod 主题子模块
+          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          extended: true # PaperMod 必须使用 Hugo Extended 版本
+          extended: true
+
+      # 增加这一步：如果目录不存在，自动在云端把 hugo-PaperMod 克隆下来
+      - name: Ensure Theme Exists
+        run: |
+          if [ ! -d "themes/hugo-PaperMod" ]; then
+            mkdir -p themes
+            git clone https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
+          fi
 
       - name: Build Website
         run: hugo --minify
