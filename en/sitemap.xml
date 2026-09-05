@@ -38,6 +38,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://freenodess.github.io/freenode/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://freenodess.github.io/freenode/fr/"
                 />
@@ -85,6 +90,16 @@
   </url><url>
     <loc>https://freenodess.github.io/freenode/tags/</loc>
     <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://freenodess.github.io/freenode/zh/tags/"
+                />
   </url><url>
     <loc>https://freenodess.github.io/freenode/tags/video/</loc>
     <lastmod>2026-04-11T00:00:00+00:00</lastmod>
@@ -112,9 +127,29 @@
   </url><url>
     <loc>https://freenodess.github.io/freenode/series/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://freenodess.github.io/freenode/zh/series/"
+                />
   </url><url>
     <loc>https://freenodess.github.io/freenode/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://freenodess.github.io/freenode/zh/categories/"
+                />
   </url><url>
     <loc>https://freenodess.github.io/freenode/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>

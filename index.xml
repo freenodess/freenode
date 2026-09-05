@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PaperMod</title>
+    <title>freenode</title>
     <link>https://freenodess.github.io/freenode/</link>
-    <description>Recent content on PaperMod</description>
+    <description>Recent content on freenode</description>
     <image>
-      <title>PaperMod</title>
+      <title>freenode</title>
       <url>https://freenodess.github.io/freenode/images/papermod-cover.png</url>
       <link>https://freenodess.github.io/freenode/images/papermod-cover.png</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>PaperMod Contributors</copyright>
+    <copyright>免费VPN节点分享</copyright>
     <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://freenodess.github.io/freenode/index.xml" rel="self" type="application/rss+xml" />
     <item>

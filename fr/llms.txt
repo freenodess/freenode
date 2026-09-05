@@ -1,4 +1,4 @@
-# PaperModL2
+# 科学上网机场
 
 ## Posts
 - [Markdown Syntax Guide For L2](https://freenodess.github.io/freenode/fr/posts/markdown-syntax/)
