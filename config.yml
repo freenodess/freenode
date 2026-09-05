@@ -143,7 +143,7 @@ params:
   homeInfoParams:
     Title: "免费节点"
     Content: |
-      每天分享公益免费节点
+      每天分享公益免费节点专注于分享免费节点的订阅服务网站，每日精选高速稳定的免费 SSR、V2ray、Clash 和 Shadowsocks 节点。免费节点订阅链接导入支持Clash、V2ray等客户端.比如FlClash、V2RayN、V2rayNG、Shadowrocket、NekoBox、Hiddify、sing-box
 
   socialIcons:
     - name: telegram
