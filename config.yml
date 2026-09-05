@@ -108,7 +108,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "免费节点每日更新 - https://github.com/freenodess/freenode"
-  author: 公益免费节点
+  author: 公益免费节点,提供 V2Ray 通用 Base64 与 Clash / Mihomo YAML 订阅链接，适合 FlClash、V2RayN、V2rayNG、Shadowrocket、NekoBox、Hiddify、sing-box 等客户端使用
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
