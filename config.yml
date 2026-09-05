@@ -25,7 +25,7 @@ pagination:
 
 languages:
   en:
-    languageName: "English"
+    languageName: "首页"
     weight: 1
     taxonomies:
       category: categories
