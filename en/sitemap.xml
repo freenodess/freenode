@@ -8,9 +8,6 @@
     <loc>https://freenodess.github.io/freenode/posts/2026-9-4-freenode/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freenodess.github.io/freenode/posts/code_syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freenodess.github.io/freenode/tags/clash/</loc>
     <lastmod>2026-09-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -106,6 +103,9 @@
     <loc>https://freenodess.github.io/freenode/posts/2026-9-3-freenode/</loc>
     <lastmod>2026-09-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/code_syntax/</loc>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freenodess.github.io/freenode/posts/inner-section/</loc>
     <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -121,12 +121,6 @@
     <loc>https://freenodess.github.io/freenode/posts/markdown-syntax.fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freenodess.github.io/freenode/categories/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freenodess.github.io/freenode/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freenodess.github.io/freenode/tags/markdown/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -137,18 +131,6 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freenodess.github.io/freenode/categories/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freenodess.github.io/freenode/tags/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freenodess.github.io/freenode/categories/themes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freenodess.github.io/freenode/series/themes-guide/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/posts/math-typesetting/</loc>
@@ -171,6 +153,8 @@
                 hreflang="fr"
                 href="https://freenodess.github.io/freenode/fr/archives/"
                 />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/categories/</loc>
   </url><url>
     <loc>https://freenodess.github.io/freenode/tags/clashfree/</loc>
   </url><url>

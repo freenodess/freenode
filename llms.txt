@@ -3,8 +3,8 @@
 
 ## Posts
 - [9月4日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-4-freenode/)
-- [Code Syntax Guide](https://freenodess.github.io/freenode/posts/code_syntax/)
 - [9月3日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-3-freenode/)
+- [9月2日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/code_syntax/)
 - [Markdown Syntax Guide For RTL](https://freenodess.github.io/freenode/posts/markdown-syntax.fa/)
 - [Rich Content and Shortcodes](https://freenodess.github.io/freenode/posts/rich-content/)
 - [Math Typesetting](https://freenodess.github.io/freenode/posts/math-typesetting/)
