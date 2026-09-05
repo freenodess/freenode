@@ -1,12 +1,10 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "PaperMod"
-license = "MIT"
-licenselink = "https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE"
-description = "A fast, clean, responsive Hugo theme"
-homepage = "https://github.com/adityatelange/hugo-PaperMod/"
-demosite = "https://adityatelange.github.io/hugo-PaperMod/"
+
+name = "免费节点分享"
+
+description = "🚀 免费订阅地址，🚀 免费节点，🚀 每天更新，共享节点，节点质量高可用，完全免费。免费v2ray节点每日更新。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、翻墙梯子。"
+homepage = "https://github.com/freenodess/freenode"
+demosite = "https://freenodess.github.io/freenode/zh/"
 tags = [
   "responsive",
   "blog",
