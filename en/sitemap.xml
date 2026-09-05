@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://freenodess.github.io/freenode/archives/</loc>
+    <loc>https://freenodess.github.io/freenode/posts/papermod/papermod-installation/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freenodess.github.io/freenode/categories/</loc>
+    <loc>https://freenodess.github.io/freenode/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://freenodess.github.io/freenode/fa/posts/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/code_syntax/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/about/</loc>
+    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/</loc>
+    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,10 +47,136 @@
                 href="https://freenodess.github.io/freenode/fa/"
                 />
   </url><url>
-    <loc>https://freenodess.github.io/freenode/posts/</loc>
+    <loc>https://freenodess.github.io/freenode/tags/audio/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freenodess.github.io/freenode/series/</loc>
+    <loc>https://freenodess.github.io/freenode/posts/audio-video/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/html/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/hugo/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/inner-section/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://freenodess.github.io/freenode/fa/posts/"
+                />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/shortcodes/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/tags/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/video/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/inner-section/md-headings/</loc>
+    <lastmod>2024-06-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/inner-section/md-lists/</loc>
+    <lastmod>2024-06-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/inner-section/md-blog/</loc>
+    <lastmod>2024-06-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/docs/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/series/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/series/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/code/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/syntax/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/archives/"
+                />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/search/"
+                />
   </url>
 </urlset>

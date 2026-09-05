@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shortcodes on PaperMod</title>
+    <link>https://freenodess.github.io/freenode/tags/shortcodes/</link>
+    <description>Recent content in Shortcodes on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://freenodess.github.io/freenode/images/papermod-cover.png</url>
+      <link>https://freenodess.github.io/freenode/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://freenodess.github.io/freenode/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio and Video</title>
+      <link>https://freenodess.github.io/freenode/posts/audio-video/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/posts/audio-video/</guid>
+      <description>Learn how to embed audio and video in your hugo site using shortcodes and HTML.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://freenodess.github.io/freenode/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+  </channel>
+</rss>

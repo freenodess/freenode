@@ -1,1 +1,18 @@
 # PaperMod
+- [About](https://freenodess.github.io/freenode/about/)
+
+## Posts
+- [Markdown Syntax Guide](https://freenodess.github.io/freenode/posts/markdown-syntax/)
+- [Code Syntax Guide](https://freenodess.github.io/freenode/posts/code_syntax/)
+- [Audio and Video](https://freenodess.github.io/freenode/posts/audio-video/)
+- [Rich Content and Shortcodes](https://freenodess.github.io/freenode/posts/rich-content/)
+- [Math Typesetting](https://freenodess.github.io/freenode/posts/math-typesetting/)
+- [Emoji Support](https://freenodess.github.io/freenode/posts/emoji-support/)
+
+### Inner Section
+- [Markdown Headings](https://freenodess.github.io/freenode/posts/inner-section/md-headings/)
+- [Markdown Lists](https://freenodess.github.io/freenode/posts/inner-section/md-lists/)
+- [Sample Markdown Blog Post](https://freenodess.github.io/freenode/posts/inner-section/md-blog/)
+
+### PaperMod
+- [PaperMod Installation Guide](https://freenodess.github.io/freenode/posts/papermod/papermod-installation/)

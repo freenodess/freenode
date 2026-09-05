@@ -12,6 +12,21 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://freenodess.github.io/freenode/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperMod</title>
+      <link>https://freenodess.github.io/freenode/series/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/series/papermod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes Guide</title>
+      <link>https://freenodess.github.io/freenode/series/themes-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/series/themes-guide/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

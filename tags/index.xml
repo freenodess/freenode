@@ -12,6 +12,105 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://freenodess.github.io/freenode/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio</title>
+      <link>https://freenodess.github.io/freenode/tags/audio/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://freenodess.github.io/freenode/tags/html/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://freenodess.github.io/freenode/tags/hugo/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://freenodess.github.io/freenode/tags/shortcodes/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>https://freenodess.github.io/freenode/tags/video/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docs</title>
+      <link>https://freenodess.github.io/freenode/tags/docs/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PaperMod</title>
+      <link>https://freenodess.github.io/freenode/tags/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/papermod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://freenodess.github.io/freenode/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://freenodess.github.io/freenode/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://freenodess.github.io/freenode/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://freenodess.github.io/freenode/tags/code/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://freenodess.github.io/freenode/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>https://freenodess.github.io/freenode/tags/syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://freenodess.github.io/freenode/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/tags/emoji/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

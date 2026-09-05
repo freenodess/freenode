@@ -2,13 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freenodess.github.io/freenode/fr/frtags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freenodess.github.io/freenode/fr/frcategories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/fr/frseries/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/fr/frtags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frtags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frtags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://freenodess.github.io/freenode/fa/posts/markdown-syntax/"
+                />
   </url><url>
     <loc>https://freenodess.github.io/freenode/fr/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,6 +54,60 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://freenodess.github.io/freenode/fa/"
+                />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://freenodess.github.io/freenode/fa/posts/"
+                />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frcategories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frcategories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frtags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/frseries/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/archives/"
+                />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fr/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/search/"
                 />
   </url>
 </urlset>

@@ -2,13 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freenodess.github.io/freenode/fa/fatags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freenodess.github.io/freenode/fa/facategories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/fa/faseries/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/fa/fatags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/fatags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/fatags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://freenodess.github.io/freenode/fa/posts/markdown-syntax/"
+                />
   </url><url>
     <loc>https://freenodess.github.io/freenode/fa/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,5 +55,35 @@
                 hreflang="fa"
                 href="https://freenodess.github.io/freenode/fa/"
                 />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freenodess.github.io/freenode/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freenodess.github.io/freenode/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://freenodess.github.io/freenode/fa/posts/"
+                />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/facategories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/facategories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/fatags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/fa/faseries/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>
