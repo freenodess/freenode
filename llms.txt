@@ -5,6 +5,7 @@
 - [Markdown Syntax Guide](https://freenodess.github.io/freenode/posts/markdown-syntax/)
 - [Code Syntax Guide](https://freenodess.github.io/freenode/posts/code_syntax/)
 - [Audio and Video](https://freenodess.github.io/freenode/posts/audio-video/)
+- [Markdown Syntax Guide For RTL](https://freenodess.github.io/freenode/posts/markdown-syntax.fa/)
 - [Rich Content and Shortcodes](https://freenodess.github.io/freenode/posts/rich-content/)
 - [Math Typesetting](https://freenodess.github.io/freenode/posts/math-typesetting/)
 - [Emoji Support](https://freenodess.github.io/freenode/posts/emoji-support/)

@@ -32,11 +32,6 @@
                 hreflang="fr"
                 href="https://freenodess.github.io/freenode/fr/posts/markdown-syntax/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://freenodess.github.io/freenode/fa/posts/markdown-syntax/"
-                />
   </url><url>
     <loc>https://freenodess.github.io/freenode/fr/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -49,11 +44,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://freenodess.github.io/freenode/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://freenodess.github.io/freenode/fa/posts/"
                 />
   </url><url>
     <loc>https://freenodess.github.io/freenode/fr/frcategories/syntax/</loc>
@@ -84,11 +74,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://freenodess.github.io/freenode/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://freenodess.github.io/freenode/fa/"
                 />
   </url><url>
     <loc>https://freenodess.github.io/freenode/fr/archives/</loc>

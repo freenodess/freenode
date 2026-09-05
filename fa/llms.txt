@@ -1,4 +1,0 @@
-# PaperMod RTL
-
-## Posts
-- [Markdown Syntax Guide For RTL](https://freenodess.github.io/freenode/fa/posts/markdown-syntax/)
