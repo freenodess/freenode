@@ -97,11 +97,11 @@ languages:
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
-      languageAltTitle: French
+      languageAltTitle:  科学上网88云加速
       profileMode:
         enabled: true
-        title: PaperMod
-        imageUrl: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&h=200"
+        title:  88云加速
+        imageUrl: "https://images.unsplash.com/-d1d0cf377fde?w=200&h=200"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
@@ -112,25 +112,7 @@ languages:
           - name: 科学上网首选
             url: https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb
 
-  fa:
-    languageName: "Farsi"
-    languagedirection: rtl
-    weight: 3
-    title: PaperMod RTL
-    taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
-    menu:
-      main:
-        - name: FATags
-          url: fatags
-          weight: 10
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
+ 
 
 outputFormats:
   llms:
@@ -170,7 +152,7 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
+    title: 免费节点分享
     imageUrl: "#"
     imageTitle: my image
     # imageWidth: 120
