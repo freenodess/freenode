@@ -11,7 +11,7 @@
 - [Emoji Support](https://freenodess.github.io/freenode/posts/emoji-support/)
 
 ### PaperMod
-- [9月5日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/papermod/2026-9-5-sub-node.md/)
+- [9月5日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/papermod/2026-9-5-sub-node/)
 
 ### Inner Section
 - [Markdown Headings](https://freenodess.github.io/freenode/posts/inner-section/md-headings/)
