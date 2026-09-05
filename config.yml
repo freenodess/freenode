@@ -2,8 +2,8 @@ module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
 baseURL: "https://freenodess.github.io/freenode/"
-title: PaperMod
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+title: freenode
+copyright: "© [免费VPN节点分享](https://github.com/freenodess/freenode)"
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
@@ -24,6 +24,29 @@ pagination:
   pagerSize: 3
 
 languages:
+  zh:
+    languageName: "chainese"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: 科学上网机场
+          url: about
+          weight: 1
+        - name: 归档
+          url: archives
+          weight: 2
+        - name: 搜索
+          url: search/
+          weight: 2
+        - name: 标签
+          url: tags/
+          weight: 4
+        - name: "88云加速"
+          url: https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb
   en:
     languageName: "English"
     weight: 1
@@ -33,10 +56,10 @@ languages:
       series: series
     menu:
       main:
-        - name: About
+        - name: 科学上网机场
           url: about
           weight: 1
-        - name: Archive
+        - name: Archives
           url: archives
           weight: 2
         - name: Search
@@ -45,13 +68,12 @@ languages:
         - name: Tags
           url: tags/
           weight: 4
-        - name: "Docs (Wiki)"
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-
+        - name: "88云加速"
+          url: https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb
   fr:
-    languageName: "French"
+    languageName: "科学上网"
     weight: 2
-    title: PaperModL2
+    title: 科学上网机场
     taxonomies:
       category: FRcategories
       tag: FRtags
@@ -71,7 +93,7 @@ languages:
           url: frseries
           weight: 10
         - name: External
-          url: "https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode"
+          url: "https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb"
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -85,10 +107,10 @@ languages:
         # imageHeight: 120
         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
         buttons:
-          - name: Blog
+          - name: 88云加速
             url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+          - name: 科学上网首选
+            url: https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb
 
   fa:
     languageName: "Farsi"
@@ -126,8 +148,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  description: "免费节点每日更新 - https://github.com/freenodess/freenode"
+  author: 公益免费节点
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -160,30 +182,25 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "免费节点"
     Content: |
-      A clean, fast, and responsive Hugo theme built for a polished reading experience. [Read more..](/about/)
-      - Lightweight by design, with a modern layout that keeps your content front and center.
-      - Explore the [Docs (Wiki)](https://github.com/adityatelange/hugo-PaperMod/wiki/) to learn more about features and configuration.
-      - Support the project on [GitHub](https://github.com/adityatelange/hugo-PaperMod) and share it with others who love minimalistic designs.
-      - PaperMod is inspired by the [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3) theme.
+      每天分享公益免费节点
 
   socialIcons:
+    - name: telegram
+      title: 免费节点每日分享机场VPN推荐
+      url: "https://t.me/clashjd"
     - name: github
       title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://github.com/freenodess/freenode"
     - name: Discord
       title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
+      url: "https://discord.gg/"
     - name: X
       title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
-
+      url: "https://x.com/"
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/freenodess/freenode/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
