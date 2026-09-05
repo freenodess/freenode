@@ -1,5 +1,5 @@
 # freenode
-- [About](https://freenodess.github.io/freenode/about/)
+- [科学上网高速翻墙机场推荐](https://freenodess.github.io/freenode/about/)
 
 ## Posts
 - [Markdown Syntax Guide](https://freenodess.github.io/freenode/posts/markdown-syntax/)

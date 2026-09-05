@@ -21,11 +21,14 @@
     <loc>https://freenodess.github.io/freenode/posts/code_syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freenodess.github.io/freenode/about/</loc>
-    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
+    <loc>https://freenodess.github.io/freenode/tags/audio/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/audio-video/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/</loc>
-    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,12 +39,6 @@
                 hreflang="fr"
                 href="https://freenodess.github.io/freenode/fr/"
                 />
-  </url><url>
-    <loc>https://freenodess.github.io/freenode/tags/audio/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freenodess.github.io/freenode/posts/audio-video/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/tags/html/</loc>
     <lastmod>2026-04-11T00:00:00+00:00</lastmod>
@@ -155,6 +152,16 @@
                 href="https://freenodess.github.io/freenode/fr/archives/"
                 />
   </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/clash/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/clashfree/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/clash%E8%8A%82%E7%82%B9/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/fanqiang/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/mihomo/</loc>
+  </url><url>
     <loc>https://freenodess.github.io/freenode/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -166,5 +173,37 @@
                 hreflang="fr"
                 href="https://freenodess.github.io/freenode/fr/search/"
                 />
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/ss/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/ssr/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/trojan/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/v2ray/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/v2rayfree/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/v2ray%E8%8A%82%E7%82%B9/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/vmess/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/vpn/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/categories/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/about/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/categories/%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80/</loc>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/tags/%E8%AE%A2%E9%98%85%E9%93%BE/</loc>
   </url>
 </urlset>

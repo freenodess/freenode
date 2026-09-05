@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Clashfree on freenode</title>
+    <link>https://freenodess.github.io/freenode/tags/clashfree/</link>
+    <description>Recent content in Clashfree on freenode</description>
+    <image>
+      <title>freenode</title>
+      <url>https://freenodess.github.io/freenode/images/papermod-cover.png</url>
+      <link>https://freenodess.github.io/freenode/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>免费VPN节点分享</copyright>
+    <atom:link href="https://freenodess.github.io/freenode/tags/clashfree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>科学上网高速翻墙机场推荐</title>
+      <link>https://freenodess.github.io/freenode/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://freenodess.github.io/freenode/about/</guid>
+      <description>纯公益免费节点分享网，提供免费节点订阅链接，每天都会精选高速稳定节点供大家免费使用，支持ss/ssr/v2ray/vmess/trojan/clash等众多协议</description>
+    </item>
+  </channel>
+</rss>
