@@ -24,8 +24,8 @@ pagination:
   pagerSize: 3
 
 languages:
-  en:
-    languageName: "chainese"
+  zh:
+    languageName: "English"
     weight: 1
     taxonomies:
       category: categories
