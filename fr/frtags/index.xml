@@ -12,35 +12,6 @@
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>免费VPN节点分享</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://freenodess.github.io/freenode/fr/frtags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Css</title>
-      <link>https://freenodess.github.io/freenode/fr/frtags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://freenodess.github.io/freenode/fr/frtags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>https://freenodess.github.io/freenode/fr/frtags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://freenodess.github.io/freenode/fr/frtags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>https://freenodess.github.io/freenode/fr/frtags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://freenodess.github.io/freenode/fr/frtags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>https://freenodess.github.io/freenode/fr/frtags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://freenodess.github.io/freenode/fr/frtags/themes/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
