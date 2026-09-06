@@ -1,14 +1,14 @@
 ---
-title: 9月2日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
-date: 2026-09-02
+title: 9月5日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
+date: 2026-09-05
 tags: [Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费节点,科学上网]
-description:  2026年9月2日免费节点,clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
+description:  2026年9月5日免费节点,clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
 keywords: Clash,v2ray,iOS,Quantumult,QuantumultX,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,翻墙必备,免费节点,科学上网, 
 topmost: false
 ---
 
 
-## 2026年9月2日公益免费节点 最高速度：12.5M/S 节点区域：美国、欧洲、香港、台湾、日本、韩国、新加坡等
+## 2026年9月5日公益免费节点 最高速度：12.5M/S 节点区域：美国、欧洲、香港、台湾、日本、韩国、新加坡等
 
 #### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -113,15 +113,15 @@ topmost: false
 
 ### Clash订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260902.yaml
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260905.yaml
 -
 
 ### V2ray订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260902.txt
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260905.txt
 - 
 ### Sing-box订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20260402.json
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20260405.json
 
 ___________________________________________
