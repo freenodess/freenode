@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://freenodess.github.io/freenode/posts/papermod/2026-9-5-sub-node/</loc>
-    <lastmod>2026-09-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freenodess.github.io/freenode/posts/2026-9-4-freenode/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -91,6 +88,9 @@
     <lastmod>2026-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/posts/2026-9-5-freenode/</loc>
+    <lastmod>2026-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freenodess.github.io/freenode/posts/papermod/2026-9-5-sub-node/</loc>
     <lastmod>2026-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freenodess.github.io/freenode/posts/papermod/</loc>
