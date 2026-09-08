@@ -1,515 +1,127 @@
 ---
-title: "Features / Mods"
-summary: Learn About All Features in PaperMod
-date: 2021-01-20
-expiryDate: 2026-05-08
-aliases: ["/papermod-features"]
-tags: ["PaperMod", "Docs"]
-author: ["Aditya Telange"]
-social:
-  fediverse_creator: "@adityatelange@mastodon.social"
+title: 9月8日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
+date: 2026-09-08
+tags: [Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费节点,科学上网]
+description:  2026年9月8日免费节点,clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
+keywords: Clash,v2ray,iOS,Quantumult,QuantumultX,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,翻墙必备,免费节点,科学上网, 
+top: 1
 ---
 
-> This page is not updated anymore and is only kept for reference. Please refer to [Documentation](https://github.com/adityatelange/hugo-PaperMod/wiki/) for latest information.
 
-### Intro
+## 2026年9月8日公益免费节点 最高速度：12.1M/S 节点区域：美国、欧洲、香港、台湾、日本、韩国、新加坡、中东、非洲、南美等
 
-- **We'll be using `yml/yaml` format for all examples down below, I recommend using `yml` over `toml` as it is easier to read.**
+#### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
-- You can find any [YML to TOML](https://www.google.com/search?q=yml+to+toml) converters if necessary.
 
----
+### [TG账号商店 ](https://goso002.com?from=32977) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-### Assets (js/css)
+[点击进入TG账号商店 ](https://goso002.com?from=32977)
 
-The following is enabled by default
 
-- [minification](https://gohugo.io/hugo-pipes/minification/) - makes the assets size smallest as possible.
-- [bundling](https://gohugo.io/hugo-pipes/bundling/) - bundles all the styles in one single asset
-- [fingerprint/intergity](https://gohugo.io/hugo-pipes/fingerprint/) check.
 
----
+## 高速机机场推荐:
 
-### Default Theme light/dark/auto
+* * *
+### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
-```yml {linenos=true}
-params:
-  # defaultTheme: light
-  # defaultTheme: dark
-  defaultTheme: auto # to switch between dark or light according to browser theme
-```
+新用户特惠的订阅有10元 200G/月
 
-</details>
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
----
+解锁奈飞迪士尼
 
-### Theme Switch Toggle (enabled by default)
+### 注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
-Shows icon besides title of page to change theme
+*  *   *
 
-To disable it :
 
-```yml {linenos=true}
-disableThemeToggle: true
-```
 
-You can refer following table for better understanding...
+### [星辰VPN](http://xc.luniu8.com/?code=tLBWwhPs)
 
-| `defaultTheme` | `disableThemeToggle` | checks local storage? | checks system theme? | Info              |
-| -------------- | -------------------- | --------------------- | -------------------- | ----------------- |
-| `auto`         | true                 | No                    | Yes                  | only system theme |
-|                | false                | Yes (if not->2)       | Yes (2)              | _switch present_  |
-| `dark`         | true                 | No                    | No                   | force dark only   |
-|                | false                | Yes                   | No                   | _switch present_  |
-| `light`        | true                 | No                    | No                   | force light only  |
-|                | false                | Yes                   | No                   | _switch present_  |
+注册链接：[点击进入](http://xc.luniu8.com/?code=tLBWwhPs)
 
----
 
-### Archives Layout
 
-Create a page with `archive.md` in `content` directory with following content
 
-```shell
-.
-├── hugo.yaml
-├── content/
-│   ├── archives.md   <--- Create archive.md here
-│   └── posts/
-├── static/
-└── themes/
-    └── PaperMod/
-```
+便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
-and add the following to it
+最大的缺点就是太便宜了
 
-```yml
----
-title: "Archive"
-layout: "archives"
-url: "/archives/"
-summary: archives
----
-```
 
-**Note:** Archives Layout does not support Multilingual Month Translations.
+* * *
+<h3></h3>
+<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
+<h3>· 高速·稳定·无限可能</h3>
+<h3>1. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！</h3>
+<h3>2. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！</h3>
+<h3>3. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！</h3>
+<h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
+<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?code=7Y5uXPTq">点击注册</h3>
 
-ex: [archives.md](https://raw.githubusercontent.com/adityatelange/hugo-PaperMod/exampleSite/content/archives.md)
+* * *
 
----
 
-### Regular Mode (default-mode)
+### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
-![regular](images/regular.jpg)
+注册链接：[点击进入](https://www.dginv.click/#/register?code=yi5aid0d)
 
----
 
-### Home-Info Mode
 
-![homeinfo](images/homeinfo.jpg)
+最便宜的订阅有15.8元 160G/月。
 
-Use 1st entry as some Information
+集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
 
-add following to config file
-
-```yml
-params:
-  homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
-
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
-```
-
----
-
-### Profile Mode
-
-![profile](https://raw.githubusercontent.com/adityatelange/hugo-PaperMod/exampleSite/content/posts/papermod/papermod-features/images/profile.jpg)
+* * *
 
-Shows Index/Home page as Full Page with Social Links and Image
 
-add following to config file
 
-```yml {linenos=true}
-params:
-  profileMode:
-    enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "This is subtitle"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+### [西游云](https://d.xiyou666.xyz/?code=LQzUg4EU)
 
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
-```
+### 注册链接：[点击进入](https://d.xiyou666.xyz/?code=LQzUg4EU)
 
----
-
-### Search Page
-
-PaperMod uses [Fuse.js Basic](https://fusejs.io/getting-started/different-builds.html#explanation-of-different-builds) for search functionality
-
-Add the following to site config, `hugo.yaml`
 
-```yml {linenos=true,hl_lines=[5]}
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # necessary for search
-```
 
-Create a page with `search.md` in `content` directory with following content
+最便宜的订阅有10元 120G/月。
 
-```yml {linenos=true,hl_lines=[3]}
----
-title: "Search" # in any language you want
-layout: "search" # necessary for search
-# url: "/archive"
-# description: "Description for Search"
-summary: "search"
-placeholder: "placeholder text in search input box"
----
-```
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
 
-To hide a particular page from being searched, add it in post's frontmatter
+* * *
 
-```yml {linenos=true}
-searchHidden: true
-```
 
-ex: [search.md](https://raw.githubusercontent.com/adityatelange/hugo-PaperMod/exampleSite/content/search.md)
+### 高速机场推荐1 快猫
+高速机场推荐1 [【快猫】](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
+季付送小火箭，流量多，优惠多
 
-> Search Page also has Key bindings:
->
-> - Arrow keys to move up/down the list
-> - Enter key (return) or Right Arrow key to go to the highlighted page
-> - Escape key to clear searchbox and results
+而且不限登录设备数，解锁奈飞
 
-For Multilingual use `search.<lang>.md` ex. `search.es.md`.
+👉[点击注册](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
-**Note:** Search will work only on current language, user is currently on !
 
-**Customizing Fusejs Options**
+### 高速机场推荐3 轻云
 
-Refer https://fusejs.io/api/options.html for Options, Add those as shown below.
+👉高速机场推荐3  [【轻云】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-```yml {linenos=true}
-params:
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
-```
+解锁奈飞迪士尼
 
----
+👉注册地址： [【轻云官网（点击注册）】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
 
-### Draft Page indication
 
-adds `[draft]` mark to indicate draft pages.
 
----
 
-### Post Cover Image
+## 订阅链接：
 
-In post's page-variables add :
+### Clash订阅链接
 
-```yml {linenos=true}
-cover:
-  image: "<image path/url>"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
-```
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260908.yaml
+-
 
-When you include images in the [Page Bundle](https://gohugo.io/content-management/page-bundles/), multiple sizes of the image will automatically be provided using the HTML5 `srcset` field.
+### V2ray订阅链接
 
-To reduce generation time and size of the site, you can disable this feature using
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260908.txt
+- 
+### Sing-box订阅链接
 
-```yml {linenos=true}
-params:
-  cover:
-    responsiveImages: false
-```
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20260408.json
 
-To enable hyperlinks to the full image size on post pages, use
-
-```yml {linenos=true}
-params:
-  cover:
-    linkFullImages: true
-```
-
----
-
-### Share Buttons on post
-
-Displays Share Buttons at Bottom of each post
-
-to show share buttons add
-
-```yml
-params:
-  ShowShareButtons: true
-```
-
----
-
-### Show post reading time
-
-Displays Reading Time (the estimated time, in minutes, it takes to read the content.)
-
-To show reading time add
-
-```yml
-Params:
-  ShowReadingTime: true
-```
-
----
-
-### Show Table of Contents (Toc) on blog post
-
-Displays ToC on blog-pages
-
-To show ToC add following to page-variables
-
-```yml
-ShowToc: true
-```
-
-To keep Toc Open **by default** on a post add following to page-variables:
-
-```yml
-TocOpen: true
-```
-
----
-
-### BreadCrumb Navigation
-
-Adds BreadCrumb Navigation above Post's Title to show subsections and Navigation to Home
-
-```yml
-params:
-  ShowBreadCrumbs: true
-```
-
-Can be diabled for particular page's front-matter
-
-```yml
----
-ShowBreadCrumbs: false
----
-```
-
----
-
-### Edit Link for Posts
-
-Add a button to suggest changes by using the file path of the post to link to a edit destination.
-
-For site config use:
-
-```yml
-Params:
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-```
-
-Can be modified for individual pages
-
-```yml
----
-editPost:
-  URL: "https://github.com/<path_to_repo>/content"
-  Text: "Suggest Changes" # edit text
-  appendFilePath: true # to append file path to Edit link
----
-```
-
-The example above would yield the following link for the post file `posts/post-name.md`:
-`https://github.com/<path_to_repo>/content/posts/post-name.md`
-
-| Parameter                 | Required | Default Value |
-| ------------------------- | -------- | ------------- |
-| `editPost.URL`            | true     | -             |
-| `editPost.appendFilePath` | false    | `false`       |
-| `editPost.Text`           | false    | `Edit`        |
-
-Since the link generated is a regular HTML anchor tag `<a href=...>`, you can
-also use other URL schemas like `mailto://`, e.g.
-`URL: "mailto://mail@example.com?subject=Suggesting changes for "`
-
----
-
-### Other Posts suggestion below a post
-
-Adds a Previous / Next post suggestion under a single post
-
-```yml
-params:
-  ShowPostNavLinks: true
-```
-
----
-
-### Code Copy Button
-
-Adds a `copy` button in code block to copy the code it contains
-
-```yml
-params:
-  ShowCodeCopyButtons: true
-```
-
----
-
-### Multiple Authors
-
-To Use multiple authors for a post, in post-variables:
-
-```yml
----
-author: ["Me", "You"]
----
-```
-
-To use Multiple Authors Site-wide, in `hugo.yaml`:
-
-```yml
-params:
-  author: ["Me", "You"]
-```
-
----
-
-### Comments
-
-to add comments, create a html file
-
-`layouts/partials/comments.html`
-
-and paste code provided by your comments provider
-
-also in config add this
-
-```yml
-params:
-  comments: true
-```
-
-read more about this [hugo-comments](https://gohugo.io/content-management/comments/)
-
----
-
-### AccessKeys
-
-```text
-c - ToC Open/Close
-g - Go To Top
-h - Home (according to current lang)
-t - Theme toggle
-/ - Jumps to search page if in menu
-```
-
-[What's AccessKeys ?](https://www.w3schools.com/tags/att_global_accesskey.asp)
-
----
-
-### Enhanced SEO
-
-**Enabled only when `env: production`**
-
-- [Rich Results/Snippets Support](https://support.google.com/webmasters/answer/7506797?hl=en)
-
-#### Twitter Cards Support
-
-- The Twitter Cards metadata, except `twitter:image` should not require
-  additional configuration, since it is generated from metadata that
-  you should already have (for instance the page title and description).
-- The `twitter:image` uses the [Post Cover Image](#post-cover-image), if present.
-- In the absence of a cover images, the first image from the `images`
-  frontmatter (a list) is used.
-  ```yaml
-  images:
-    - image_01.png
-    - image_02.png
-  ```
-- Finally, if neither of those are provided, `twitter:image` comes from the first
-  [Page Bundle](https://gohugo.io/content-management/page-bundles/)
-  image with `feature` in the name, with a fallback to the first image with
-  `cover` or `thumbnail` in the name.
-
-#### OpenGraph support
-
-- The OpenGraph metadata, except `og:image` should not require
-  additional configuration, since it is generated from metadata that
-  you should already have (for instance the page title and description).
-- The `og:image` uses the [Post Cover Image](#post-cover-image), if present.
-- In the absence of a cover images, the first image from the `images`
-  frontmatter (a list) is used.
-  ```yaml
-  images:
-    - image_01.png
-    - image_02.png
-  ```
-- Finally, if neither of those are provided, `og:image` comes from the first
-  [Page Bundle](https://gohugo.io/content-management/page-bundles/)
-  image with `feature` in the name, with a fallback to the first image with
-  `cover` or `thumbnail` in the name.
-- For pages, you can also add audio (using frontmatter `audio: filename.ext`) and/or
-  videos.
-  ```yaml
-  videos:
-    - filename01.mov
-    - filename02.avi
-  ```
-
----
-
-### Multilingual Support
-
----
-
-### Misc
-
-#### Scroll-Bar themed (by default)
-
-#### Smooth Scroll between in-page links (by default)
-
-#### Scroll-to-Top Button (by default)
-
-```text
-Displays a Scroll-to-Top button in right-bottom corner
-```
-
-#### Google Analytics integration
-
-#### Syntax highlighting
-
-#### RSS feeds
+___________________________________________
