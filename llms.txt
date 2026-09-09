@@ -2,6 +2,7 @@
 - [科学上网高速翻墙机场推荐](https://freenodess.github.io/freenode/about/)
 
 ## Posts
+- [9月9日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/rich-content/)
 - [9月8日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-8-freenode/)
 - [9月7日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-7-freenode/)
 - [9月6日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-6-freenode/)
@@ -10,7 +11,6 @@
 - [9月3日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-3-freenode/)
 - [9月2日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-2-freenode/)
 - [9月1日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/2026-9-1-freenode/)
-- [Rich Content and Shortcodes](https://freenodess.github.io/freenode/posts/rich-content/)
 
 ### PaperMod
 - [9月5日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接](https://freenodess.github.io/freenode/posts/papermod/2026-9-5-sub-node/)
