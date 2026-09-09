@@ -5,4 +5,3 @@ Disallow:
 Disallow: /
 {{- end }}
 Sitemap: {{ "sitemap.xml" | absURL }}
-Sitemap: {{ "posts/index.xml" | absURL }}
