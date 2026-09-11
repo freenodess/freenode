@@ -22,7 +22,7 @@
 
 ### [星辰VPN](http://xc.luniu8.com/?code=tLBWwhPs)
 
-注册链接：[点击进入](http://xc.luniu8.com/?code=tLBWwhPs)
+### 注册链接：[点击进入](http://xc.luniu8.com/?code=tLBWwhPs)
 
 
 
