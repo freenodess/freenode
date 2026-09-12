@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://freenodess.github.io/freenode/sitemap.xml
