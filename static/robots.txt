@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Sitemap: https://freenodess.github.io/freenode/sitemap.xml
-Sitemap: https://freenodess.github.io/freenode/posts/sitemap.xml
+Sitemap: https://freenodess.github.io/freenode/posts/index.xml
