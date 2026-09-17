@@ -1,8 +1,16 @@
 # freenode
 ## 免费节点订阅链接,免费 VPN订阅,每日分享好用的免费科学上网节点
-### 更新时间:   2026-9-16
+### 更新时间:   2026-9-17
 
-<div><h2 class="heading-element" dir="auto" tabindex="-1"><a href="http://shop.tgaaaa.co" rel="nofollow"><span style="color: #ff0000;">海外社交账号商店&nbsp;</span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售<a href="http://shop.tgaaaa.co" rel="nofollow"><span style="color: #ff0000;">点击进入购买&nbsp;</span></h2></div>
+
+## [海外社交账号商店](http://shop.tgaaaa.co)  
+
+### ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售
+
+### [点击进入购买](http://shop.tgaaaa.co)
+
+
+
 
 ## 高速机机场推荐:
 
@@ -47,13 +55,19 @@
 
 * * *
 
-<h3></h3>
-<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
-<h3>· 高速·稳定·无限可能</h3>
-<h3>1. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！</h3>
-<h3>2. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！</h3>
-<h3>3. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！</h3>
-<h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
-<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?code=7Y5uXPTq">点击注册</h3>
+### 🚀 [飞鸟加速            点击注册](https://www.112112789.xyz/?code=7Y5uXPTq)
+
+### · 高速·稳定·无限可能
+
+### 1\. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！
+
+### 2\. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！
+
+### 3\. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！
+
+### 4\. 支持多设备同时使用，无限制，畅连全球！
+
+### 🚀 [点击注册](https://www.112112789.xyz/?code=7Y5uXPTq)
+
 
 * * *
