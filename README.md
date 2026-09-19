@@ -1,6 +1,6 @@
 # freenode
 ## 免费节点订阅链接,免费 VPN订阅,每日分享好用的免费科学上网节点
-### 更新时间:   2026-9-18
+### 更新时间:   2026-9-19
 
 
 ## [海外社交账号商店](http://shop.tgaaaa.co)  
@@ -71,7 +71,9 @@
 
 
 * * *
+### 订阅链接点击下方网址进入
 
+###   [https://freenodess.github.io/freenode](https://freenodess.github.io/freenode)
 
 ## Windows、Android、IOS、macOS 全平台客户端
 
