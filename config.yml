@@ -46,7 +46,7 @@ languages:
           url: tags/
           weight: 4
         - name: "88云加速"
-          url: https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb
+          url: https://www.8891888.xyz/#/register?code=n4KLfZJb
   fr:
     languageName: "科学上网"
     weight: 2
@@ -70,7 +70,7 @@ languages:
           url: frseries
           weight: 10
         - name: External
-          url: "https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb"
+          url: "https://www.8891888.xyz/#/register?code=n4KLfZJb"
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -87,7 +87,7 @@ languages:
           - name: 88云加速
             url: posts
           - name: 科学上网首选
-            url: https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb
+            url: https://www.8891888.xyz/#/register?code=n4KLfZJb
 
  
 

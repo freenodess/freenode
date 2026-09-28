@@ -25,7 +25,7 @@ topmost: false
 ## 高速机机场推荐:
 
 * * *
-### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+### [【88云加速】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 新用户特惠的订阅有10元 200G/月
 
@@ -33,7 +33,7 @@ topmost: false
 
 解锁奈飞迪士尼
 
-### 注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+### 注册地址：[【88云加速（点击注册）】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 *  *   *
 
