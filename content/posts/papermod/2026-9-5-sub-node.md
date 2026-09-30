@@ -78,9 +78,9 @@ topmost: false
 
 
 
-### [西游云](https://d.xiyou666.xyz/?code=LQzUg4EU)
+### [西游云](https://e.xiyou666.xyz/?code=LQzUg4EU)
 
-### 注册链接：[点击进入](https://d.xiyou666.xyz/?code=LQzUg4EU)
+### 注册链接：[点击进入](https://e.xiyou666.xyz/?code=LQzUg4EU)
 
 
 
