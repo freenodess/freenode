@@ -111,15 +111,15 @@ top: #1
 
 ### Clash订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20261001.yaml
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261001.yaml
 -
 
 ### V2ray订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20261001.txt
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261001.txt
 - 
 ### Sing-box订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20261001.json
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261001.json
 
 ___________________________________________
