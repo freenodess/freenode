@@ -78,7 +78,7 @@ languages:
       profileMode:
         enabled: true
         title:  88云加速
-        imageUrl: "https://images.unsplash.com/-d1d0cf377fde?w=200&h=200"
+        imageUrl: "https://raw.githubusercontent.com/freenodess/freenode/refs/heads/main/assets/images/Gemini_Generated_Image_i0kmrqi0kmrqi0km.jfif?w=200&h=200"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
