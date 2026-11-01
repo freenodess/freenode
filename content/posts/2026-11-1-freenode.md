@@ -58,6 +58,19 @@ top: #1
 
 * * *
 
+### [【绿牛云（点击注册）】](https://www.futizi.net/?code=UQjFiejp)
+专为大陆用户打造的高速、稳定的网络连接服务
+无论是工作还是娱乐，使用我们的互联网加速服务，确保您畅享全球内容。让您不再受地域限制，随时访问全球热门应用。
+
+全面解锁全球网络：包括不限于 YouTube、Google、Twitter、ChatGPT、Netflix 等被封禁的网站
+多平台支持：IOS、macOS、Android、Windows、软路由、Linux 全面支持
+全球连接：80多 组服务器集群覆盖全球，您可以从世界上任何地方连接
+极速连接：优化全球网络路径，提供更稳定、快速的连接。
+安全隐私保护：全程加密，保护您的网络安全和隐私。
+专业客服：7×24 小时专线客服在线答疑
+### 注册地址：[【绿牛云（点击注册）】](https://www.futizi.net/?code=UQjFiejp)
+* * *
+
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
