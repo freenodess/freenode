@@ -1,6 +1,6 @@
 ---
 title: 11月2日 2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
-date: 2026-11-02
+date:  2026-11-02
 weight: #1
 tags: [Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费节点,科学上网]
 description:  2026年11月2日免费节点,clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
@@ -111,15 +111,15 @@ top: #1
 
 ### Clash订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20261102.yaml
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/11/20261102.yaml
 -
 
 ### V2ray订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20261102.txt
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/11/20261102.txt
 - 
 ### Sing-box订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20261102.json
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/11/20261102.json
 
 ___________________________________________
